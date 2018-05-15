@@ -13,7 +13,7 @@
               
             </style>
     </head>
-      <body style="background-image: url('/Assigment_01/ironman.png');color: white;">
+      <body style="background-image: url('/Assigment_02/ironman.png');color: white;">
         <nav class="navbar navbar-light bg-light">
             <a class="navbar-brand" href="index.php">Assignment 02</a>
             <ul class="nav justify-content-end">
